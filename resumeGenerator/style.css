@@ -1,0 +1,22 @@
+
+
+#cv-template{
+    display: none;
+}
+
+.my-img{
+    /* border: 2px solid red; */
+    border-radius: 50%;
+    width: 200px;
+}
+
+.background{
+    background-color: aqua;
+}
+
+#SKT{
+    list-style: none;
+    text-align: center;
+    width: 360px;
+}
+
